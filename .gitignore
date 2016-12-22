@@ -1,0 +1,6 @@
+elapsedMillis.h
+FiniteStateMachine.cpp
+FiniteStateMachine.h
+localData.h
+.vscode
+*.bin
